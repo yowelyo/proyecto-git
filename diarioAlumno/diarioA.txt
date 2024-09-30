@@ -1,1 +1,2 @@
-Aquí viene tu diario
+MI DIARIO (rama nueva-funcionalidad)
+    1. este es el primer cambio para esta rama
