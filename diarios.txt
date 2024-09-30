@@ -1,7 +1,6 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
-
-        RAMA PRUEBAS:
-            1. primer cambio commit
-            2. segundo cambio commit
+    RAMA PRUEBAS:
+        1. primer cambio rama-pruebas 
+        
